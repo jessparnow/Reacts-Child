@@ -20,9 +20,10 @@ Paw's Date brings the solution to my issue. My human uses the app to see puppies
 - [Future.Development](#Future.Development)
 - [License](#License)
 
-## Demo
+## Screenshot
 
-![](client/public/screen-by-screen/homePage.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/71057611/119243640-3ced3380-bb2e-11eb-87d9-c4b286fed97b.png)
+
 
 ## Installation
 
